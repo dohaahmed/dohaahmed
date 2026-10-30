@@ -11,6 +11,8 @@
 - 🌍 Launched and scaled digital products across 25+ countries/markets
 - 📜 **CBAP**, **CCBA**, and **SAFe 6 Agilist** certified
 
+---
+
 ### 🏆 Awards
 
 - 🏅 Received the **PwC Graduate Award for Distinctive Leadership**!
@@ -65,3 +67,5 @@
 ---
 
 <p align="center"><i>"Building technology that brings everyone into the financial system."</i></p>
+
+--- 
