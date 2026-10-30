@@ -8,8 +8,17 @@
 - 🔬 Research interests focused on **FinTech, Financial Inclusion, ML/Deep Learning in Finance, Digital Assets, and Policy Research**
 - 💳 Former **FinTech Sr. Product Manager** at CIT Global , CashCall, and OPay
 - 🚀 **Co-founder** of EasyKash and Qasatly, two Egyptian fintech startups
-- 🌍 Runs a global distribution venture spanning **50+ brands across 160+ countries**
+- 🌍 Launched and scaled digital products across 25+ countries/markets
 - 📜 **CBAP**, **CCBA**, and **SAFe 6 Agilist** certified
+
+### 🏆 Awards
+
+- 🏅 Received the **PwC Graduate Award for Distinctive Leadership**!
+- 🎖️ Honored with the **Graduate Leaders Award** at **Bryant University**!
+- 🌍 Won the **Digital Innovation Award for Inclusion** in **London**!
+- 🚀 Recognized in **Startup Scene's Top 25 Under 25**!
+
+---
 
 ## 🔍 Research Interests
 
