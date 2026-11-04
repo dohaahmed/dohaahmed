@@ -15,10 +15,10 @@
 
 ### 🏆 Awards
 
-- 🏅 Received the **PwC Graduate Award for Distinctive Leadership**!
-- 🎖️ Honored with the **Graduate Leaders Award** at **Bryant University**!
-- 🌍 Won the **Digital Innovation Award for Inclusion** in **London**!
-- 🚀 Recognized in **Startup Scene's Top 25 Under 25**!
+- 🏅 Received the **PwC Graduate Award for Distinctive Leadership**
+- 🎖️ Honored with the **Graduate Leaders Award** at **Bryant University**
+- 🌍 Won the **Digital Innovation Award for Inclusion** in **London**
+- 🚀 Recognized in **Startup Scene's Top 25 Under 25**
 
 ---
 
